@@ -1,0 +1,50 @@
+INFO System started at 08:00
+INFO User alice logged in successfully
+FAILED Login attempt for user bob
+WARNING Disk space at 85%
+INFO Service restarted
+FAILED Login attempt for user admin
+SUCCESS Login for user charlie
+WARNING CPU usage high
+FAILED Login attempt for user david
+INFO Backup completed
+SUCCESS Login for user alice
+FAILED Login attempt for user root
+WARNING Memory usage high
+INFO Firewall rules updated
+FAILED Login attempt for user bob
+SUCCESS Login for user david
+INFO System shutdown initiated
+WARNING Network latency detected
+FAILED Login attempt for user guest
+INFO System started at 09:00
+SUCCESS Login for user charlie
+FAILED Login attempt for user admin
+WARNING Disk space at 90%
+INFO Backup completed
+FAILED Login attempt for user alice
+SUCCESS Login for user bob
+INFO Service restarted
+WARNING CPU usage normal
+FAILED Login attempt for user guest
+INFO Firewall rules updated
+SUCCESS Login for user admin
+FAILED Login attempt for user root
+INFO System shutdown initiated
+WARNING Memory usage normal
+FAILED Login attempt for user david
+INFO System started at 10:00
+SUCCESS Login for user alice
+WARNING Network latency detected
+FAILED Login attempt for user bob
+INFO Backup completed
+FAILED Login attempt for user guest
+SUCCESS Login for user charlie
+WARNING Disk space at 92%
+INFO Firewall rules updated
+FAILED Login attempt for user root
+SUCCESS Login for user david
+INFO Service restarted
+FAILED Login attempt for user admin
+WARNING CPU usage high
+INFO System shutdown initiated
